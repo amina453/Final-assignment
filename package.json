@@ -1,0 +1,14 @@
+{
+  "name": "final-assignment",
+  "version": "1.0.0",
+  "description": "final assignment for WEB technologies course",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Umbeteeva Amina, Sadykova Aiym, Saya Zhumakhan, Sekenova Kamila, Aruzhan Akhmetova",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
